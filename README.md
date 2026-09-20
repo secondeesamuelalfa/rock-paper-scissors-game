@@ -1,7 +1,7 @@
 
 # ✂️ Rock, Paper, Scissors Game
 
-A classic, browser-based Rock, Paper, Scissors game built with vanilla JavaScript. Players compete against the computer, with real-time score tracking and dynamic visual feedback.
+A classic, browser-based Rock, Paper, Scissors game built with vanilla JavaScript. Players compete against the computer, with real-time score tracking and dynamic visual feedbacks.
 
 ## 🚀 Live Demo
 [Click here to play the game live](https://secondeesamuelalfa.github.io/rock-paper-scissors-game/)
@@ -21,6 +21,7 @@ A classic, browser-based Rock, Paper, Scissors game built with vanilla JavaScrip
 - How to use `Math.random()` to simulate computer choices
 - How to write clean conditional logic to determine the winner
 - How to manipulate the DOM to update scores without reloading the page
+  
 
 ## 🏃 How to Run Locally
 1. Clone this repository: `git clone https://github.com/secondeesamuelalfa/rock-paper-scissors-game.git`
